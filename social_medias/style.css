@@ -1,0 +1,36 @@
+*{
+  box-sizing: border-box;
+  font-family:'Poppins', sans-serif ;
+  color: #BB99DD;
+}
+#main{
+    width: 400px;
+    padding: 10px;
+    margin: 100px auto;
+  
+}
+#perfil-img{
+    width: 200px;
+    height: 200px;
+    padding: 3px;
+    border-radius: 150px;
+    border: 2px solid #BB99DD;
+}
+ul{
+    list-style-type:none;
+    margin-top: 50px;
+}
+a{
+    text-decoration: none;
+}
+.links li{
+    border: #BB99DD 1px solid;
+    text-align: center;
+    padding: 12px;
+    margin-bottom: 14px;
+    font-weight: 600;
+}
+.social li{
+    display: inline;
+    margin: 10px;
+}
